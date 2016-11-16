@@ -19,3 +19,8 @@ Live view and still image take picture are possible.
 ## Play Swift
 Application displays a list of images of the SD card.
 
+
+### これからつくるiPhoneアプリ開発入門 ~Swiftではじめるプログラミングの第一歩~
+おすすめSwift 3.0向け入門書です。  
+[公式サイト](https://swiftbg.github.io/swiftbook/)  
+![](https://images-fe.ssl-images-amazon.com/images/I/51tP8W6KckL.jpg)
